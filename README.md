@@ -5,7 +5,7 @@ The DriverPass project required that we pull the requirements for a system from 
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-I would revise some of the non-functional requirements I listed in the initial business requirements document. Some may have been to vague to be useful, if it were an actual development scenario. I could include more detail when it came to performance requirements, and more specifically the server requirements that would be needed to support a system that would be used by such a large user base.
+I would revise some of the non-functional requirements I listed in the initial business requirements document. Some may have been too vague to be useful, if it were an actual development scenario. I could include more detail when it came to performance requirements, and more specifically the server requirements that would be needed to support a system that would be used by such a large user base.
 
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
